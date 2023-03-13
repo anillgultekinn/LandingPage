@@ -143,8 +143,7 @@ a {
 img {
     display: block;
     max-width: 100%;
-    /* img lar default olarak yayılabildikleri kadar yayılmaya çalışır */
-    /* sağa sola scroll çıkmasını engelledik */
+
 }
 
 input,
